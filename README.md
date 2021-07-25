@@ -33,8 +33,7 @@
 
 # Desafio
 Aqui neste espaço, tera que ter a descrição do seu desafio, recomendamos que em seu repositório do desafio, tenha esse README preenchido,
-duas pastas, sendo uma para os **Assets** do desafio  e uma pasta de **Design** contendo a UI do mesmo, fica a sua escolha, sugerimos um 
-arquivo de layout do figma 
+duas pastas, sendo uma para os **Assets** do desafio  e uma pasta de **Design** contendo a UI do mesmo, é essencial que em seu desafio tenha o arquivo de layout do figma.
 
 ## Requisitos:
 - Agora nesse espaço irá descrever os requisitos do projeto, ou seja o que terá que ser feito pata realização do mesmo.
