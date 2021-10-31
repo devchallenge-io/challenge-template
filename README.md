@@ -32,18 +32,27 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 # Desafio
-Aqui neste espaço, tera que ter a descrição do seu desafio, recomendamos que em seu repositório do desafio, tenha esse README preenchido,
-duas pastas, sendo uma para os **Assets** do desafio  e uma pasta de **Design** contendo a UI do mesmo, é essencial que em seu desafio tenha o arquivo de layout do figma.
+`Aqui neste espaço deverá ter a descrição do seu desafio, com um breve resumo do objetivo do desafio.`
+
+Seu desafio é criar um cronômetro que utiliza a técnica do pomodoro para ajudar na gestão de tempo! O modelo final está disponível na pasta "design"
+
+`Recomendamos que seu repositório do desafio contenha:`
+- Este README preenchido
+- Uma pasta pasta para **Assets** do desafio (imagens e gifs, caso existam)
+- Caso seja de frontend: uma pasta de **Design** contendo imagens da UI do mesmo. Adicione o arquivo/link do layout no figma também.
+
+
 
 ## Requisitos:
-- Agora nesse espaço irá descrever os requisitos do projeto, ou seja o que terá que ser feito pata realização do mesmo.
-
+`Agora nesse espaço irá descrever os requisitos obrigatórios do projeto, ou seja, o que terá que ser feito para realização do desafio.`
+- Sua página deverá ter uma tela inicial onde será possível configurar o tempo de trabalho, tempo de pausa e a quantidade de vezes que isso será feito.
 
 ### Requisitos bônus
-- São informações extras que descreve requisitos extras, que não obrigatoriamente seu desafio deve ter para ser feito 
+`Descreva os requisitos extras, que não obrigatoriamente seu desafio deve ter para ser concluído.` 
+- Você poderá adicionar um alerta sonoro quando o tempo acabar, para avisar o usuário
 
 # Techs: 
-- Stacks usadas
+`Informe as stacks que deverão ser usadas, se necessário`
 - Framework ou linguagem que preferir :)
 
 # Como começar:
@@ -53,21 +62,26 @@ duas pastas, sendo uma para os **Assets** do desafio  e uma pasta de **Design** 
 4 - Compartilhe seu resultado com a comunidade! Se puder, mostre seus resultado aqui no repositório também, criando uma Issue :)<br>
 
 # Dicas
+`Nesta etapa você pode incrementar suas instruções com dicas e ferramentas úteis para quem irá realizar seu desafio.`
 
 ## Cores:
-Azul mais escuro: #333853<br>
-Azul mais claro: #3C4262<br>
-Verde: #219653<br>
-Amarelo: #F2C94C
+`Adicione a paleta de cores utilizada. Exemplo:`<br>
+- Azul mais escuro: #333853
+- Azul mais claro: #3C4262
+- Verde: #219653
+- Amarelo: #F2C94C
 
 ## Modelo:
-O modelo final desktop está disponível na pasta `./design`, por gentileza adicionar aqui nessa pasta.
+`Informe onde poderá ser encontrado o modelo final de como você espera que o desafio esteja ao ser concluído. Exemplo:`<br>
+O modelo final do desafio está disponível na pasta `./design`.
 
 ## Icones
+`Caso tenha utilizado alguma biblioteca de ícones específica, informe como encontrá-la. Exemplo:`<br>
 Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
 ## Tipo de fonte:
-- Informe o nome da fonte usada e onde pode ser pega, geralmente é Google Fonts
+`Informe o nome da fonte usada e onde pode ser encontrada. Geralmente é utilizado o Google Fonts.`<br>
+Roboto - Google Fonts
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
